@@ -1,0 +1,5 @@
+/Source/SimpleBackstoryEditor/.vs/*
+/Source/SimpleBackstoryEditor/obj/*
+/Source/SimpleBackstoryEditor/bin/Release/*
+/Assemblies/*.pdb
+/About/*
